@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am currently a third-year computer science student, focusing on enhancing my skills in web development and, in the near future, potentially exploring machine learning.
 
 
 ## 🌐 Socials:
